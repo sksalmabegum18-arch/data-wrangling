@@ -1,7 +1,5 @@
 # data-wrangling
 This project demonstrates a complete data wrangling and preprocessing workflow performed on a retail sales dataset using Python. The primary goal of the project is to transform raw business data into a clean, structured, and analysis-ready format suitable for business intelligence, reporting, and advanced analytics.
-Here's a GitHub-ready project description of about **250 words** that you can use in your repository README:
-
 # Data Wrangling and Data Cleaning Project
 
 This project demonstrates a complete data wrangling and preprocessing workflow performed on a retail sales dataset using Python. The primary goal of the project is to transform raw business data into a clean, structured, and analysis-ready format suitable for business intelligence, reporting, and advanced analytics.
